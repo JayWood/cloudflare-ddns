@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.idea
+
+# env variables
+# .env
+# .env-dev
+# .env-prod
+
+# Built file for upload
+*.zip
+
+# Test output
+*.txt
+
+#node
+node_modules
+dist/
+localtest.ts
+*.ics
+.env
